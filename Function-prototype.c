@@ -24,4 +24,9 @@ void Hello(char name[] , int age)
     printf("\n Hello  %s  , Happy birthday to you ",name);
     printf("\n Your are %d years old now ... ",age);
     
-}
+} 
+ /*
+     Easy to Navigate a process  with main () at the top
+     Helps with Debugging
+     Commonly used in their heading files 
+ */
