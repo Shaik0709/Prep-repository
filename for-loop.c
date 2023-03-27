@@ -4,7 +4,7 @@ int main ()
     // for loop - repeats a section of code a limited amount of times
     for (int i = 1 ; i <=10 ;i++)
     {
-        printf("%d\t",i);
+        printf("%d\tf",i);
     }
     return 0;
 
