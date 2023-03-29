@@ -1,4 +1,6 @@
 #include <stdio.h>
+// BITWISE OPERATOR  - SPECIAL OPERATOR used in Bit level programming
+// (Knowing Binary is important fot this topic)
 int main()
 {
     // & - AND
